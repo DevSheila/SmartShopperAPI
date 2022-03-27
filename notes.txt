@@ -1,0 +1,28 @@
+
+Commands
+---------------------------------------------------------------------------------------------------------------
+
+npm init -y 
+npm install express mysql body-parser
+npm install dotenv  express-handlebars express-fileupload path multer
+npm install hbs
+npm i -D nodemon
+npm i --save multer
+
+-- its an alternative for body parser for form data(bodies thatcannot be  handled by body parser)
+npm start
+
+
+
+
+npm i express bcryptjs passport passport-local  ejs express-ejs-layouts mongoose connect-flash express-session
+npm install -g ejs-lint
+
+---------------------------------------------------------------------------------------------------------------
+
+
+partial ->is apiece of htmlor template code that we want to render in another template
+
+EJS-Lint ->  Linter/Syntax Checker for EJS Templates.
+
+
