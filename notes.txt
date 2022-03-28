@@ -2,6 +2,8 @@
 Commands
 ---------------------------------------------------------------------------------------------------------------
 
+// MongoURI:'mongodb+srv://karani:karani@cart.mqekw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+
 npm init -y 
 npm install express mysql body-parser
 npm install dotenv  express-handlebars express-fileupload path multer
