@@ -6,6 +6,7 @@ const flash = require('connect-flash');
 const session = require('express-session');
 
 const app = express();
+
 //PassportConfig
 require('./config/passport')(passport);
 // DB config
